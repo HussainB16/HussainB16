@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Hussain Sadriwala 👋
 
-<!--
-**HussainB16/HussainB16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 Aspiring Data Analyst and Data Engineer
+- 📍 Mumbai, India
+- 📊 Passionate about turning data into insights
 
-Here are some ideas to get you started:
+## Skills
+- Python (Pandas, NumPy, Matplotlib)
+- Power BI
+- SQL
+- Azure Data Factory
+- Pyspark
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- 🛒 [E-Commerce Retail Analysis](https://github.com/HussainB16/ecommerce-retail-analysis)
+
+## Currently Learning
+- Delta Lake
+- Advanced SQL
+- DAX for Power BI
+
